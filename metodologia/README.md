@@ -4,7 +4,7 @@
 
 ---
 
-## PROJETO 2024-2
+## PROJETO 2025-2
 
 ### O PROBLEMA
 
