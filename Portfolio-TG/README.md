@@ -16,7 +16,7 @@ Sou estudante de Tecnologia em Banco de Dados na FATEC São José dos Campos, ma
 
 Meu primeiro contato mais próximo com a área de programação aconteceu durante a pandemia. Aos poucos, percebi que queria trabalhar com a criação e a manutenção de sistemas, e decidi seguir esse caminho profissionalmente. Atualmente, sou estagiário em uma empresa de sistemas ERP, onde tenho contato com tecnologias como SQL Server e VB.NET. É uma experiência que tem complementado o que aprendo na faculdade, principalmente em relação a bancos de dados, regras de negócio, manutenção de sistemas e investigação de problemas.
 
-Durante a graduação, participei de quatro projetos de Aprendizagem por Projetos Integrados (API). Em alguns semestres estive mais próximo da organização do produto; em outros, do desenvolvimento e dos testes. Essa alternância foi importante para mim, porque aprendi que desenvolver software não é apenas escrever código. Também envolve compreender o problema, discutir escolhas com a equipe, lidar com limitações e voltar ao que já foi feito para melhorar.
+Durante minha trajetória na faculdade, participei de quatro projetos de Aprendizagem por Projetos Integrados (API). Em alguns semestres, estive mais envolvido com a organização do produto; em outros, com o desenvolvimento e os testes. Essa alternância foi importante para meu aprendizado, pois me mostrou que desenvolver software não se resume a escrever código. Também é necessário compreender o problema, discutir soluções com a equipe, lidar com as dificuldades que surgem durante o projeto e revisar o que já foi desenvolvido para buscar melhorias.
 
 Neste portfólio, reuni os projetos que fizeram parte dessa trajetória, os desafios que encontrei e as habilidades que fui desenvolvendo em cada etapa.
 
@@ -111,17 +111,17 @@ Essa experiência foi meu primeiro contato com a importância de testar o softwa
 
 **Hard skills**
 
-- **Fundamentos de programação:** acompanhei o desenvolvimento de uma aplicação em Python e tive contato com a organização das regras de negócio e dos fluxos por terminal.
-- **Avaliação de tecnologias:** comecei a compreender que decisões técnicas precisam levar em conta o objetivo do sistema e a experiência da equipe.
-- **Testes funcionais:** aprendi a observar o comportamento de uma funcionalidade a partir do que era esperado dela, e não apenas de sua execução.
-- **Versionamento:** tive contato com o uso do Git e do GitHub como ferramentas de apoio ao desenvolvimento colaborativo.
+- **Fundamentos de programação:** apesar de não ter ficado responsável por toda a implementação, acompanhei a construção do sistema em Python e comecei a entender melhor a organização das funções, das regras de negócio e dos menus no terminal. Foi um primeiro contato com a diferença entre conhecer a lógica de um exercício e aplicá-la em algo que outras pessoas precisariam utilizar.
+- **Avaliação de tecnologias:** participei da escolha das ferramentas que seriam utilizadas e acompanhei as dificuldades que surgiram depois dessas decisões. Aprendi que uma tecnologia pode parecer adequada no planejamento, mas também precisa fazer sentido para o nível de experiência da equipe e para o prazo disponível.
+- **Testes funcionais:** ao testar algumas das entregas, passei a prestar atenção não só em saber se a funcionalidade executava, mas também em verificar se ela realmente fazia o que havia sido pedido. Esse cuidado foi importante para perceber problemas que nem sempre apareciam durante o desenvolvimento.
+- **Git e GitHub:** tive contato com o versionamento em um projeto coletivo e com a necessidade de manter as alterações organizadas. Naquele momento ainda estava aprendendo o fluxo de trabalho, mas comecei a perceber como o histórico e a divisão do código ajudam a equipe a acompanhar o andamento do sistema.
 
 **Soft skills**
 
-- **Comunicação:** precisei acompanhar diferentes integrantes e compreender tanto o andamento das tarefas quanto as dificuldades relatadas.
-- **Responsabilidade:** comecei a desenvolver uma visão do projeto que ia além das minhas atividades individuais.
-- **Resiliência:** aprendi a lidar com limitações e mudanças de direção sem perder de vista o objetivo da entrega.
-- **Tomada de decisão:** percebi como escolhas feitas no início de um projeto podem influenciar o trabalho de toda a equipe.
+- **Comunicação:** como PO, precisei conversar com pessoas que estavam trabalhando em partes diferentes da aplicação e acompanhar o que cada uma conseguia entregar. Aos poucos, aprendi a fazer perguntas mais objetivas e a compreender melhor os problemas relatados antes de tentar encontrar uma saída.
+- **Responsabilidade:** mesmo quando uma funcionalidade não era desenvolvida diretamente por mim, eu precisava entender como ela se encaixava no resultado final. Isso me fez deixar de olhar apenas para tarefas isoladas e pensar um pouco mais no projeto como um todo.
+- **Resiliência:** por ser nosso primeiro projeto, tivemos dificuldades com decisões técnicas e com a própria dinâmica de trabalhar em equipe. Aprendi que nem tudo acontece conforme o planejamento e que, nesses momentos, o melhor é entender o que está impedindo o avanço e reorganizar o trabalho dentro do possível.
+- **Tomada de decisão:** participar das escolhas de tecnologia me mostrou que uma decisão tomada no começo pode influenciar várias etapas seguintes. Passei a dar mais valor à discussão com a equipe antes de definir um caminho, principalmente quando ainda não conhecíamos bem as ferramentas.
 
 ---
 
@@ -174,17 +174,18 @@ A participação na parte de banco de dados também reforçou a importância de 
 
 **Hard skills**
 
-- **Java e JavaFX:** aprofundei meu contato com o desenvolvimento de aplicações Java e com a relação entre interface e lógica da aplicação.
-- **MySQL e bancos relacionais:** participei da estruturação da parte de persistência, compreendendo melhor a organização e o acesso aos registros.
-- **Manutenção de código:** aprendi a analisar funcionalidades preexistentes antes de propor ajustes.
-- **Integração de componentes:** passei a considerar o impacto de mudanças em um módulo sobre os demais.
+- **Java e JavaFX:** tive uma participação mais próxima do código e pude compreender melhor como a lógica em Java se relacionava com o comportamento da interface. Também comecei a enxergar os cuidados necessários quando uma alteração em uma funcionalidade pode influenciar outras telas ou operações.
+- **MySQL e bancos relacionais:** participei da estruturação da parte de persistência e aprofundei meu entendimento sobre como os registros meteorológicos eram organizados para posterior consulta. Percebi na prática que uma estrutura de dados mal pensada acaba trazendo dificuldades para quem precisa buscar, tratar ou exibir essas informações.
+- **Manutenção e leitura de código:** trabalhei no refinamento de funcionalidades feitas por colegas, então precisei entender a intenção de cada trecho antes de alterá-lo. Isso me ajudou a desenvolver mais paciência para investigar um comportamento, localizar suas causas e fazer ajustes sem desorganizar o restante da aplicação.
+- **Integração de componentes:** passei a observar com mais cuidado a ligação entre interface, regras de negócio e banco. Em algumas situações, o problema percebido pelo usuário não estava exatamente na tela, e era necessário acompanhar o caminho dos dados para compreender o que precisava ser ajustado.
+- **Tratamento e organização de dados:** trabalhar em um projeto voltado a arquivos CSV e informações meteorológicas me aproximou das dificuldades de lidar com dados de diferentes origens. Compreendi melhor a importância de manter informações consistentes para que consultas e relatórios tenham utilidade.
 
 **Soft skills**
 
-- **Colaboração:** trabalhei diretamente sobre entregas de outros integrantes, o que exigiu diálogo e respeito às decisões já tomadas.
-- **Atenção aos detalhes:** precisei observar inconsistências que nem sempre eram evidentes em uma primeira execução.
-- **Adaptabilidade:** aprendi a lidar com funcionalidades em diferentes estágios de desenvolvimento.
-- **Pensamento analítico:** comecei a investigar não só o problema visível, mas também suas possíveis causas.
+- **Colaboração:** boa parte da minha atuação envolveu melhorar algo que outra pessoa havia começado. Precisei respeitar as decisões já tomadas, conversar sobre mudanças e entender que o objetivo era melhorar a entrega da equipe, não simplesmente reescrever a solução do meu jeito.
+- **Atenção aos detalhes:** pequenos comportamentos inesperados podiam comprometer uma funcionalidade mesmo quando ela parecia pronta. Aprendi a testar com mais cuidado e a conferir se os ajustes realmente resolviam o problema sem provocar outro.
+- **Adaptabilidade:** nem sempre pude escolher quais partes do sistema iria desenvolver, pois várias funcionalidades já estavam em andamento. Essa situação me ensinou a entrar em um código existente, entender rapidamente seu contexto e contribuir a partir do que a equipe precisava.
+- **Pensamento analítico:** comecei a me acostumar a investigar a origem dos problemas em vez de corrigir apenas o efeito visível. Essa forma de trabalhar foi importante para meu interesse posterior por manutenção de sistemas e banco de dados.
 
 ---
 
@@ -250,19 +251,20 @@ Apesar dessas dificuldades, considero esse projeto um marco na minha evolução.
 
 **Hard skills**
 
-- **Java e Spring Boot:** desenvolvi a estrutura do backend, endpoints REST e regras de negócio da aplicação.
-- **APIs e operações CRUD:** implementei operações de cadastro, leitura, atualização e exclusão, conectando-as às necessidades do sistema.
-- **PostgreSQL:** trabalhei na configuração do banco de dados e na integração com a camada de persistência.
-- **Vue.js e integração de APIs:** participei do consumo dos serviços no frontend e dos ajustes necessários para comunicar as duas camadas.
-- **Autenticação:** implementei o fluxo de login, ampliando minha familiaridade com acesso e identificação de usuários.
-- **Depuração:** exercitei a identificação de problemas em fluxos que envolviam interface, API e banco.
+- **Java e Spring Boot:** desenvolvi o backend da aplicação e ganhei experiência com a organização de controllers, services, repositories, entidades e DTOs. Ao trabalhar com essas partes, entendi melhor a necessidade de separar responsabilidades, mesmo que hoje reconheça que algumas decisões de organização poderiam ter sido melhores.
+- **APIs REST e operações CRUD:** implementei endpoints para cadastrar, consultar, atualizar e excluir dados utilizados pelo sistema. Mais do que fazer uma rota funcionar, precisei entender o que deveria ser recebido, quais regras precisavam ser aplicadas e como devolver uma resposta que pudesse ser aproveitada pelo frontend.
+- **PostgreSQL:** configurei o banco de dados e sua comunicação com a aplicação, além de trabalhar com as estruturas necessárias para armazenar informações dos diferentes módulos. Isso me deu uma noção mais concreta de como alterações no modelo de dados podem interferir no backend e nas telas.
+- **Vue.js e consumo de APIs:** estruturei a comunicação entre frontend e backend e implementei o consumo dos endpoints pela interface. Aprendi a investigar situações em que uma requisição era enviada corretamente, mas os dados recebidos ou exibidos não estavam de acordo com o esperado.
+- **Autenticação de usuários:** desenvolvi o fluxo de login e precisei considerar como o usuário se identificaria para acessar o sistema. Foi uma oportunidade de entrar em contato com responsabilidades que não apareciam tanto nos projetos anteriores, principalmente na comunicação entre a interface e os serviços de autenticação.
+- **Depuração e integração:** como trabalhei em várias camadas, frequentemente precisei verificar onde um problema começava: no dado enviado pela tela, na regra processada pelo backend ou na persistência. Ainda não tinha a maturidade técnica que gostaria, mas esse processo me ensinou bastante sobre investigar falhas sem olhar apenas um arquivo isolado.
 
 **Soft skills**
 
-- **Autonomia:** assumi responsabilidades técnicas importantes e precisei buscar soluções para dar continuidade ao trabalho.
-- **Organização e priorização:** aprendi, inclusive com dificuldades, como equilibrar demandas de produto e desenvolvimento.
-- **Comunicação técnica:** alinhei decisões e dependências entre as tecnologias utilizadas pela equipe.
-- **Autocrítica:** passei a reconhecer com mais clareza os pontos do meu próprio código que poderiam ser melhorados.
+- **Autonomia:** assumi uma parte considerável do desenvolvimento e precisei pesquisar, experimentar e corrigir problemas para conseguir avançar. Isso me deu mais confiança para lidar com tarefas maiores, mas também mostrou a importância de saber pedir ajuda e dividir responsabilidades.
+- **Organização e priorização:** conciliar o papel de PO com o desenvolvimento do backend foi difícil. Em vários momentos tive de decidir o que precisava ser resolvido primeiro, e percebi que assumir muitas tarefas ao mesmo tempo pode prejudicar a organização e a qualidade do código.
+- **Comunicação técnica:** participei da escolha e da distribuição das tecnologias e precisei alinhar com os colegas o que cada parte do sistema deveria entregar. Principalmente nas integrações, entendi que não adianta cada módulo funcionar sozinho se não houver acordo sobre os dados e os fluxos de comunicação.
+- **Autocrítica:** esse foi um projeto no qual enxerguei limitações importantes no meu próprio trabalho. Hoje consigo identificar escolhas de estrutura que faria de outra maneira, e considero esse reconhecimento parte do meu aprendizado, não algo que precise ser escondido.
+- **Persistência na resolução de problemas:** integrar backend, frontend e banco trouxe erros e retrabalhos que nem sempre consegui resolver rapidamente. Aprendi a testar alternativas, voltar ao código e rever decisões quando a primeira tentativa não atendia às necessidades da aplicação.
 
 ---
 
@@ -340,18 +342,20 @@ Essa função acabou se aproximando informalmente de um apoio ao Scrum Master, p
 
 **Hard skills**
 
-- **Spring Boot e organização em camadas:** trabalhei com controllers, DTOs, serviços, repositórios e entidades em funcionalidades de ordens de serviço, contratos e ativos.
-- **Vue.js e TypeScript:** participei da integração de telas e serviços, além da correção de problemas na interface.
-- **Docker:** contribuí para a configuração inicial do ambiente da aplicação.
-- **Banco de dados:** realizei ajustes ligados ao registro e à consulta de informações utilizadas nas regras de negócio.
-- **Testes e depuração:** ganhei prática na verificação de funcionalidades desenvolvidas por diferentes integrantes e na investigação de inconsistências.
+- **Spring Boot e organização em camadas:** trabalhei com controllers, DTOs, services, repositories e entidades, especialmente nas funcionalidades de ordens de serviço, contratos e ativos. Em comparação com o terceiro semestre, consegui compreender melhor como distribuir as responsabilidades e como uma mudança na regra de negócio percorre diferentes partes do backend.
+- **Vue.js e TypeScript:** participei da integração de telas com os serviços da API, além de realizar correções em componentes já existentes. Esse trabalho exigiu atenção ao formato dos dados, aos eventos da interface e ao comportamento esperado durante cadastros e consultas.
+- **Docker e configuração de ambiente:** contribuí para a estrutura inicial do projeto e para a configuração do ambiente com Docker. Foi uma oportunidade de entender melhor como organizar os serviços necessários para executar a aplicação, além de reduzir dificuldades de configuração entre diferentes máquinas.
+- **Banco de dados e persistência:** realizei ajustes ligados às informações usadas nas regras de negócio, principalmente nos registros de ativos e ordens de serviço. Aprendi a considerar a estrutura das tabelas junto com as alterações da API, para que a funcionalidade não ficasse correta apenas em uma das camadas.
+- **Testes funcionais e depuração:** testei grande parte das entregas da equipe e investiguei comportamentos inesperados em diferentes módulos. Ganhei prática em reproduzir problemas, observar em qual etapa eles apareciam e comunicar os detalhes necessários para facilitar a correção.
+- **Integração Full Stack:** tive contato direto com funcionalidades que exigiam mudanças simultâneas na interface, na API e no armazenamento de dados. Isso reforçou minha capacidade de compreender o fluxo completo de uma operação, desde a ação do usuário até a resposta apresentada na tela.
 
 **Soft skills**
 
-- **Colaboração técnica:** acompanhei o trabalho de outros desenvolvedores e participei da discussão de soluções.
-- **Comunicação:** aprendi a explicar problemas encontrados durante os testes e a trocar informações sobre seus possíveis impactos.
-- **Responsabilidade pela qualidade:** entendi melhor a importância de revisar entregas mesmo quando não fui quem escreveu o código.
-- **Visão sistêmica:** passei a considerar como diferentes módulos se relacionam e como um ajuste pode afetar o restante da aplicação.
+- **Colaboração técnica:** acompanhei o trabalho de colegas e ajudei a discutir problemas encontrados durante a implementação e os testes. Precisei aprender a oferecer sugestões sem deixar de ouvir quem havia desenvolvido a funcionalidade, pois muitas vezes existiam detalhes que não eram evidentes de início.
+- **Comunicação:** durante os testes, nem sempre bastava dizer que alguma coisa estava errada. Aprendi a explicar o que aconteceu, como reproduzir o comportamento e por que ele poderia afetar o uso do sistema, tornando a conversa com os desenvolvedores mais objetiva.
+- **Responsabilidade pela qualidade:** uma parte importante do meu tempo foi dedicada a revisar entregas que não eram minhas. Isso me fez perceber que a qualidade do produto depende de uma preocupação coletiva e que testar também é uma forma concreta de contribuir para o desenvolvimento.
+- **Visão sistêmica:** acompanhar diferentes módulos me ajudou a perceber relações que não eram tão claras quando eu trabalhava apenas em uma funcionalidade específica. Passei a considerar com mais frequência os efeitos de uma correção sobre o restante da aplicação.
+- **Apoio e acompanhamento da equipe:** embora não fosse Scrum Master, acabei ajudando a acompanhar dificuldades técnicas e o andamento de algumas entregas. Essa experiência me ensinou a equilibrar meu próprio trabalho com a necessidade de dar suporte aos colegas, principalmente quando estávamos próximos de uma apresentação ou entrega.
 
 ---
 
