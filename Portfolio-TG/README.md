@@ -10,6 +10,10 @@
   <a href="https://www.linkedin.com/in/daniel-lima-637648179/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+<p align="center">
+  <a href="documento/Portfolio_TG_Daniel_Lima.docx">Baixar a versão acadêmica em Word</a>
+</p>
+
 ## Sobre mim
 
 Sou estudante de Tecnologia em Banco de Dados na FATEC São José dos Campos, mas minha história com a tecnologia começou antes da faculdade. Minha primeira formação foi como técnico em Eletroeletrônica, área em que tive contato com automação industrial e comandos elétricos. Foi principalmente o interesse por eletrônica digital, e por entender como os sistemas funcionam por trás das interfaces, que despertou minha vontade de migrar para o desenvolvimento de software.
