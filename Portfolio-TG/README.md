@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="documento/Portfolio_TG_Daniel_Lima.docx">Baixar a versão acadêmica em Word</a>
+  <a href="Documentos/Portfolio_TG_Daniel_Lima.docx">Baixar a versão acadêmica em Word</a>
 </p>
 
 ## Sobre mim
